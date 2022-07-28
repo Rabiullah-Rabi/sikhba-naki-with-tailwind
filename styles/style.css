@@ -1,0 +1,10 @@
+nav{
+    z-index: 100;
+}
+.slider-image{
+    object-fit: cover;
+}
+.test-slider-btn{
+    height: 45px;
+    width: 45px;
+}
